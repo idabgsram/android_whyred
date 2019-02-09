@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="PixelExperience-Devices/device_xiaomi_whyred" path="device/xiaomi/whyred" remote="github" revision="pie" />
+  <project name="PixelExperience-Devices/vendor_xiaomi_whyred" path="vendor/xiaomi/whyred" remote="github" revision="pie" />
+  <project name="ancient-devices/kernel_xiaomi_whyred" path="kernel/xiaomi/whyred" remote="github" revision="pie" />
+  <project name="Sweeto143/vendor_xiaomi_MiuiCamera" path="vendor/xiaomi/MiuiCamera" remote="github" revision="pie" />
+</manifest>
